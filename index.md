@@ -27,7 +27,7 @@ img {
 
 In this website, I put the following:
 - short resume ([here]({{ site.baseurl }}/resume))
-- list of publication ([here]({{ site.baseurl }}/publications))
+- list of publications ([here]({{ site.baseurl }}/publications))
 - random notes on science, engineering, and related topics ([here]({{ site.baseurl }}/notes))
 - blog posts on mixed topics ([here]({{ site.baseurl }}/blog))
 
