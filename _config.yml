@@ -30,6 +30,10 @@ rss: rss
 
 show_excerpts: true
 
+# Header menu
+header_pages:
+- about.md
+
 # Build settings
 theme: minima
 plugins:
