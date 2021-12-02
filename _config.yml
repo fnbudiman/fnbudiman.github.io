@@ -24,9 +24,9 @@ description:
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fnbudiman
-github_username:  fnbudiman
 instagram_username: fnbudiman
 facebook_username: firmansyahnb
+rss: rss
 
 show_excerpts: true
 
