@@ -1,0 +1,21 @@
+.post-tag {
+  display: inline-block;
+  background: $grey-color-light;
+  padding: 0 .5rem;
+  margin-right: .1rem;
+  border-radius: 4px;
+  color: $text-color;
+  font-size: 90%;
+  &:before {
+    content: "\f02b";
+    font-family: "Font Awesome 5 Free";
+    padding-right: .5em;
+    font-weight: 900;
+    color: black;
+  }
+  &:hover {
+    text-decoration: none;
+    background: $grey-color;
+    color: $background-color;
+  }
+}
