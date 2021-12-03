@@ -34,8 +34,6 @@ show_excerpts: true
 permalink: /blog/:title/
 
 # Disqus shortname
-disqus:
-  shortname: fnbudiman
 
 # Build settings
 theme: minima
