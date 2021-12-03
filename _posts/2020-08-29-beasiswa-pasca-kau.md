@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beasiswa Pascasarjana King Abdulaziz University
-categories: Study-at-KAU
+categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
 ---
 
