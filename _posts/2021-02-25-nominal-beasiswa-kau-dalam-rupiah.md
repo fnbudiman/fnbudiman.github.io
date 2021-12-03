@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nominal Beasiswa KAU dalam Rupiah
-categories: Study-at-KAU
+categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
 ---
 
