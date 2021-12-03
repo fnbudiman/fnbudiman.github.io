@@ -10,6 +10,20 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+      {% if page.categories.size > 0 %}
+        {% if page.categories %} |
+          {% for category in page.categories %}
+            <a class="post-category" href="{{ site.baseurl }}/archive-categories/#{{ category | slugify }}">{{ category }}</a>
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+      {% if page.tags.size > 0 %}
+        {% if page.tags %} |
+          {% for tag in page.tags %}
+            <a class="post-tag" href="{{ site.baseurl }}/archive-tags/#{{ tag | slugify }}">{{ tag }}</a>
+          {% endfor %}
+        {% endif %}
+      {% endif %}
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
