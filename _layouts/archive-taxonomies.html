@@ -29,13 +29,13 @@ layout: page
     {%- assign slugified_taxonomy_name = taxonomy_name | slugify -%}
     {%- assign posts = taxonomy[1] -%}
     {%- if posts.size == i -%}
-      <h2 id="{{ slugified_taxonomy_name }}">
+      <h4 id="{{ slugified_taxonomy_name }}">
         {%- if page.type == 'tags' -%}
           {{ slugified_taxonomy_name }}
         {%- else -%}
           {{ taxonomy_name }}
         {%- endif -%}
-      </h2>
+      </h4>
       <ul class="post-list-by-taxonomy">
         {%- for post in posts -%}
           <li>
