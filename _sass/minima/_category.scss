@@ -1,0 +1,22 @@
+.post-category {
+    display: inline-block;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    padding: 0 .2rem;
+    margin-right: .2rem;
+    border-radius: 4px;
+    color: $text-color;
+    font-size: 90%;
+    &:before {
+      content: "\f07b";
+      font-family: "Font Awesome 5 Free";
+      padding-right: .5em;
+      font-weight: 900;
+      color: black;
+    }
+    &:hover {
+      text-decoration: none;
+      border-bottom-style: solid;
+      border-color: grey;
+    }
+  }
