@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cuti Kuliah
-categories: Study-at-KAU
+categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
 ---
 
