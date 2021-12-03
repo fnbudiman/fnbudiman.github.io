@@ -4,7 +4,7 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h2 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h2>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -18,6 +18,12 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  <center> --- </center>
+
+  {% if page.categories.size > 0 %}
+    Blog archive: <a href="{{ site.baseurl }}/archive-years">Years</a> / <a href="{{ site.baseurl }}/archive-categories">Categories</a> / <a href="{{ site.baseurl }}/archive-tags">Tags</a>
+  {% endif %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
