@@ -228,6 +228,9 @@ pre {
  * Tables
  */
 table {
+  padding: 0;
+  overflow: auto;
+  display: block;
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
