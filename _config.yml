@@ -33,6 +33,10 @@ show_excerpts: true
 # Post permalink
 permalink: /blog/:title/
 
+# Disqus shortname
+disqus:
+  shortname: fnbudiman
+
 # Build settings
 theme: minima
 plugins:
