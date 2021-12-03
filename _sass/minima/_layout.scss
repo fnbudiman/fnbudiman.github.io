@@ -8,9 +8,10 @@
   background-color: $background-color;
 
   // Positioning context for the mobile navigation icon
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
+  z-index: 1;
 }
 
 .site-title {
@@ -173,7 +174,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
-  margin-top: 80px;
+  margin-top: 40px;
 }
 
 .page-heading {
