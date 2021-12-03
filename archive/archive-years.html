@@ -1,0 +1,22 @@
+---
+layout: page
+title: Blog posts by years
+permalink: /archive-years/
+---
+
+{%- assign taxonomies = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+
+{% comment %} Show posts by taxonomy {% endcomment %}
+{%- for taxonomy in taxonomies -%}
+  <h4 id="{{ taxonomy.name }}">
+    {{ taxonomy.name }}
+  </h4>
+  <ul class="post-list-by-taxonomy">
+    {%- assign posts = taxonomy.items -%}
+    {%- for post in posts -%}
+      <li>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </li>
+    {%- endfor -%}
+  </ul>
+{%- endfor -%}
