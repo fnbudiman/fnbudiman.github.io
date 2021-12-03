@@ -33,13 +33,13 @@ layout: default
     {{ content }}
   </div>
 
-  <center> --- </center>
+  <p>---</p>
 
   {% if page.categories.size > 0 %}
     Blog archive: <a href="{{ site.baseurl }}/archive-years">Years</a> / <a href="{{ site.baseurl }}/archive-categories">Categories</a> / <a href="{{ site.baseurl }}/archive-tags">Tags</a>
   {% endif %}
 
-  &nbsp;
+  <p>&nbsp;</p>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
