@@ -5,14 +5,14 @@
     padding: 0 .2rem;
     margin-right: .2rem;
     border-radius: 4px;
-    color: $text-color;
+    color: $grey-color;
     font-size: 90%;
     &:before {
       content: "\f07b";
       font-family: "Font Awesome 5 Free";
       padding-right: .5em;
       font-weight: 900;
-      color: black;
+      color: $grey-color;
     }
     &:hover {
       text-decoration: none;
