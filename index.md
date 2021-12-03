@@ -13,7 +13,7 @@ img {
 
 <div class="row">
   <div class="column left">
-    <img src="images/view.jpg" alt="" style="padding-left: 5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px">
+    <img src="images/me.jpg" alt="" style="padding-left: 5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px">
     &nbsp;
   </div>
   <div class="column middle">
