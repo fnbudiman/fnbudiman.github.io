@@ -16,6 +16,9 @@ img {
     <img src="images/view.jpg" alt="" style="padding-left: 5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px">
     &nbsp;
   </div>
+  <div class="column middle">
+    &nbsp;
+  </div>
   <div class="column right">
     <p>Hi! I'm Firmansyah. I'm a lecturer in <a href="https://ee.uii.ac.id/" target="_blank">electrical engineering</a> at <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a>, but currently doing PhD at <a href="https://www.kau.edu.sa/home_ENGLISH.aspx" target="_blank">King Abdulaziz University</a>. Yes, I officially have two "homes" now.</p>
 
