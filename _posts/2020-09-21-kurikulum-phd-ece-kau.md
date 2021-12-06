@@ -32,9 +32,12 @@ PhD ECE memiliki empat buah spesialisasi sebagai berikut:
 ## Struktur Kurikulum Program
 
 Untuk bisa lulus dan mendapatkan gelar PhD ECE dari KAU, mahasiswa harus lulus di mata kuliah sebanyak 43 credit dengan rincian berikut.
+
 1. Mata kuliah wajib, sebanyak 13 credit
 2. Mata kuliah pilihan spesialisasi, sebanyak 18 credit
 3. Thesis, berbobot 12 credit
+
+&#8594; <i>sumber asli dalam bahasa arab bisa dilihat di <a href="https://graduatestudies.kau.edu.sa/Files/306/Files/155322_EED.pdf" target="_blank">sini</a></i>
 
 Daftar dan deskripsi mata kuliah wajib dan pilihan spesialisasi bisa dilihat di <a href="https://ee.kau.edu.sa/Pages-PhD.aspx" target="_blank">https://ee.kau.edu.sa/Pages-PhD.aspx</a>. Mata kuliah sebanyak 31 credit ini normalnya diselesaikan dalam empat semester, sehingga tiap semester mahasiswa normalnya mengambil 2-3 mata kuliah.
 
