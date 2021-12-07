@@ -41,7 +41,7 @@ disqus:
 google_analytics: UA-210779626-1
 
 # Pagination
-paginate: 5
+paginate: 7
 paginate_path: /blog/page:num/
 
 # Collections
