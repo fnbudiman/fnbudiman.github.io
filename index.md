@@ -38,4 +38,4 @@ Notes and blog posts are mainly written in Indonesian.
 
 ## Contact
 
-For any correspondence, feel free to email me. I'm a passive user of social media, but you may contact me through one of them (see the footer).
+For any correspondence, feel free to email me or just find me in social media (see footer).
