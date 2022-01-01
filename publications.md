@@ -10,6 +10,11 @@ permalink: /publications/
     *Alexandria Engineering Journal*, 2021  
     DOI: <a href="https://doi.org/10.1016/j.aej.2021.12.013" target="_blank">10.1016/j.aej.2021.12.013</a>
 
+* **Dimensional analysis of partial discharge initiated by a metallic particle adhering to the spacer surface in a gas-insulated system**  
+    <u>F. N. Budiman</u> and A. M. Rushdi
+    *Communications in Science and Technology*, Vol. 6, No. 2, 2021  
+    DOI: <a href="https://doi.org/10.21924/cst.6.2.2021.556" target="_blank">10.21924/cst.6.2.2021.556</a>
+
 ### 2020
 * **Pemanfaatan Energi Terbarukan untuk Pembangkit Listrik Tenaga Surya Berbasis Komunitas: Menuju Desa Mandiri Energi**  
     E. S. Wahyuni, H. Mubarok, <u>F. N. Budiman</u>, and S. W. Pratomo  
