@@ -4,12 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-### 2021
+### 2022
 * **Optimal sizing of grid-connected photovoltaic system for a large commercial load in Saudi Arabia**  
     M. M. A. Seedahmed, M. A. M. Ramli, H. R. E. H. Bouchekara, A. H. Milyani, M. Rawa, <u>F. N. Budiman</u>, R. F. Muktiadji, and S. M. Ul Hassan  
-    *Alexandria Engineering Journal*, 2021  
+    *Alexandria Engineering Journal*, Vol. 61, Issue 8, 2021  
     DOI: <a href="https://doi.org/10.1016/j.aej.2021.12.013" target="_blank">10.1016/j.aej.2021.12.013</a>
-
+    
+### 2021
 * **Dimensional analysis of partial discharge initiated by a metallic particle adhering to the spacer surface in a gas-insulated system**  
     <u>F. N. Budiman</u> and A. M. Rushdi  
     *Communications in Science and Technology*, Vol. 6, No. 2, 2021  
