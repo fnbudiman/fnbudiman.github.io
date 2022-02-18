@@ -31,8 +31,7 @@ img {
 ## About This Website
 
 In this website, I put the following:
-- short resume ([here]({{ site.baseurl }}/resume))
-- list of publications ([here]({{ site.baseurl }}/publications))
+- about me ([here]({{ site.baseurl }}/about))
 - random notes on science, engineering, and related topics ([here]({{ site.baseurl }}/notes))
 - blog posts on mixed topics ([here]({{ site.baseurl }}/blog))
 
