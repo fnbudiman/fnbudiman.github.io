@@ -12,7 +12,7 @@ img {
 }
 </style>
 
-<img src="images/prof.jpg" alt="" style="padding-left: 5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px">
+<img src="images/me.jpg" alt="" style="padding-left: 5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px">
 
 
 
