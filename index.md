@@ -4,7 +4,7 @@ layout: default
 
 <style>
 img {
-  border-radius: 50px;
+  border-radius: 30px;
   display: block;
   margin-left: auto;
   margin-right: auto;
