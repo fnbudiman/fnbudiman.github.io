@@ -17,7 +17,7 @@ v_L(t)=L\frac{di_L(t)}{dt}
 Operasi transformasi Laplace terhadap (1):
 
 $$\begin{equation}\begin{split}
-V_L(s)&=L[sI_L(s)-i_L(0^-)]\\
+V_L(s)&=L\left[sI_L(s)-i_L(0^-)\right]\\
 &=sLI_L(s)-Li_L(0^-)
 \end{split}\end{equation}$$
 
@@ -53,7 +53,7 @@ i_C(t)=C\frac{dv_C(t)}{dt}
 Operasi transformasi Laplace terhadap (4):
 
 $$\begin{equation}\begin{split}
-I_C(s)&=C[sV_C(s)-v_C(0^-)]\\
+I_C(s)&=C\left[sV_C(s)-v_C(0^-)\right]\\
 &=sCV_C(s)-Cv_C(0^-)
 \end{split}\end{equation}$$
 
