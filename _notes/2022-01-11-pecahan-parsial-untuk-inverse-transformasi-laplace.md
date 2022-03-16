@@ -66,7 +66,7 @@ Berbeda dengan fungsi di Contoh 1. Di Contoh 2 ini, kita perlu berhati-hati kare
 
 2. 'Pemisahan' fungsi:
 
-    $$\begin{equation}F(s)=\frac{A}{s}+\frac{B}{s^2}+\frac{C}{s+2}+\frac{D}{s+1}\end{equation}$$
+    $$\begin{equation}F(s)=\frac{A}{s^2}+\frac{B}{s}+\frac{C}{s+2}+\frac{D}{s+1}\end{equation}$$
 
     Perhatikan bahwa kita mempunyai empat bagian (bukan tiga) karena terdapat dua _pole_ (meskipun sama) yang terindikasi dari $$s^2$$. Ini sekaligus menjadi kaidah umum dalam pemisahan fungsi, yakni fungsi dengan $$n$$ _pole_ dipecah menjadi $$n$$ bagian.
 
@@ -74,38 +74,100 @@ Berbeda dengan fungsi di Contoh 1. Di Contoh 2 ini, kita perlu berhati-hati kare
 
     Dari Persamaan (6) dan (7), kita mempunyai hubungan berikut.
 
-    $$\begin{equation}\frac{5}{s^2(s+1)(s+2)}=\frac{A}{s}+\frac{B}{s^2}+\frac{C}{s+2}+\frac{D}{s+1}\end{equation}$$
+    $$\begin{equation}\frac{5}{s^2(s+1)(s+2)}=\frac{A}{s^2}+\frac{B}{s}+\frac{C}{s+2}+\frac{D}{s+1}\end{equation}$$
 
-    Karena fungsi yang diobservasi sedikit lebih rumit, kita akan menggunakan teknik yang sedikit berbeda dari yang kita gunakan di Contoh 1. Teknik ini bisa juga diaplikasikan pada fungsi di Contoh 1. Karena $$A$$ dan $$B$$ terasosiasi dengan penyebut yang menghasilkan dua _pole_ identik, kita akan menghitung $$C$$ dan $$D$$ terlebih dahulu.
+    Kita mulai dengan menghitung nilai $$A$$. Perhatikan bahwa $$A$$ mempunyai penyebut $$s^2$$. Kita perlu menghilangkan penyebut ini. Caranya adalah dengan mengalikan kedua sisi di Persamaan (8) dengan $$s$$ tersebut. Prosesnya adalah sebagai berikut.
 
-    Untuk $$C$$, karena penyebutnya $$(s+2)$$, kita kalikan kedua sisi di Persamaan (8) dengan $$(s+2)$$ sehingga didapatkan bentuk berikut.
+    $$\begin{equation}
+    \frac{5}{s^2(s+1)(s+2)}\times s^2=\left[\frac{A}{s^2}+\frac{B}{s}+\frac{C}{s+2}+\frac{D}{s+1}\right]\times s^2
+    \end{equation}$$
 
-    $$\begin{equation}\frac{5}{s^2(s+1)}=\frac{A(s+2)}{s}+\frac{B(s+2)}{s^2}+C+\frac{D(s+2)}{s+1}\end{equation}$$
+    atau
 
-    Dengan substitusi nilai _pole_ $$s=-2$$ ke Persamaan (9), didapatkan $$\boxed{C=-\frac{5}{4}}$$.
+    $$\begin{equation}
+    \frac{5}{(s+1)(s+2)}=A+\frac{Bs^2}{s}+\frac{Cs^2}{s+2}+\frac{Ds^2}{s+1}
+    \end{equation}$$
 
-    Untuk $$D$$, karena penyebutnya $$(s+1)$$, kita kalikan kedua sisi di Persamaan (8) dengan $$(s+1)$$ sehingga didapatkan bentuk berikut.
+    Nilai $$A$$ didapatkan dengan substitusi _pole_ pertama, yakni $$s=0$$.
 
-    $$\begin{equation}\frac{5}{s^2(s+2)}=\frac{A(s+1)}{s}+\frac{B(s+1)}{s^2}+\frac{C(s+1)}{s+2}+D\end{equation}$$
+    $$\begin{split}
+    A&=\left.\frac{5}{(s+1)(s+2)}\right\rvert_{s=0}\\
+    &=\frac{5}{2}
+    \end{split}$$
 
-    Dengan substitusi nilai _pole_ $$s=-1$$ ke Persamaan (10), didapatkan $$\boxed{D=5}$$.
+    Perhitungan $$B$$ kita lewati dulu karena tidak bisa menggunakan cara sebagaimana di (9). Dengan $$s=0$$, kita akan dapatkan $$B=\infty$$ (silakan dicoba sendiri). Nilai ini tentu tidak valid.
 
-    Untuk $$A$$ dan $$B$$, kita tidak bisa langsung mengalikan kedua sisi dengan $$s$$ atau $$s^2$$ karena akan menimbulkan error di perhitungan (silakan dicoba sendiri). Yang bisa kita lakukan adalah mensubstitusikan dua nilai $$s$$ sembarang (selain nol) ke Persamaan (8). Di sini kita akan mengambil angka yang sederhana saja, yakni $$s=1$$ dan $$s=2$$. Substitusi keduanya serta substitusi $$C$$ dan $$D$$ ke Persamaan (8) menghasilkan
+    Kita beralih ke perhitungan nilai $$C$$. Dengan proses sebagaimana di (9), kita mempunyai
 
-    $$\begin{equation}\begin{split}s=1 \hspace{10pt}\rightarrow \hspace{10pt} &\frac{5}{6}=\frac{A}{1}+\frac{B}{1}-\frac{5}{12}+\frac{5}{2}\\
-    &A+B=-\frac{5}{4}\end{split}\end{equation}$$
+    $$\begin{equation}
+    \frac{5}{s^2(s+1)(s+2)}\times (s+2)=\left[\frac{A}{s^2}+\frac{B}{s}+\frac{C}{s+2}+\frac{D}{s+1}\right]\times (s+2)
+    \end{equation}$$
 
-    $$\begin{equation}\begin{split}s=2 \hspace{10pt}\rightarrow \hspace{10pt} &\frac{5}{48}=\frac{A}{2}+\frac{B}{4}-\frac{5}{16}+\frac{5}{3}\\
-    &2A+B=-5\end{split}\end{equation}$$
+    atau
 
-    Kombinasi Persamaan (11) dan (12) menghasilkan $$\boxed{A=-\frac{15}{4}}$$ dan $$\boxed{B=\frac{5}{2}}$$.
+    $$\begin{equation}
+    \frac{5}{s^2(s+1)}=\frac{A(s+2)}{s^2}+\frac{B(s+2)}{s}+C+\frac{D(s+2)}{s+1}
+    \end{equation}$$
+
+    Dengan $$s=-2$$,
+
+    $$\begin{split}
+    C&=\left.\frac{5}{s^2(s+1)}\right\rvert_{s=-2}\\
+    &=-\frac{5}{4}
+    \end{split}$$
+
+    Proses yang sama digunakan untuk menghitung $$D$$,
+
+    $$\begin{equation}
+    \frac{5}{s^2(s+1)(s+2)}\times (s+1)=\left[\frac{A}{s^2}+\frac{B}{s}+\frac{C}{s+2}+\frac{D}{s+1}\right]\times (s+1)
+    \end{equation}$$
+
+    atau
+
+    $$\begin{equation}
+    \frac{5}{s^2(s+2)}=\frac{A(s+1)}{s^2}+\frac{B(s+1)}{s}+\frac{C(s+1)}{s+2}+D
+    \end{equation}$$
+
+    Dengan $$s=-1$$,
+
+    $$\begin{split}
+    C&=\left.\frac{5}{s^2(s+2)}\right\rvert_{s=-1}\\
+    &=5
+    \end{split}$$
+
+    $$A$$, $$C$$, dan $$D$$ telah diketahui, tersisa $$B$$. Untuk menghitung $$B$$, kembalikan/substitusi $$A$$, $$C$$, dan $$D$$ ke (8),
+
+    $$\begin{equation}\frac{5}{s^2(s+1)(s+2)}=\frac{5/2}{s^2}+\frac{B}{s}+\frac{-5/4}{s+2}+\frac{5}{s+1}\end{equation}$$
+
+    atau
+
+    $$\begin{equation}\frac{5}{s^2(s+1)(s+2)}=\frac{(5/2)(s+1)(s+2)+Bs(s+1)(s+2)-(5/4)s^2(s+1)+5s^2(s+2)}{s^2(s+1)(s+2)}\end{equation}$$
+
+    Proses selanjutnya bisa diringkas sebagai berikut.
+
+    $$\begin{equation}\begin{split}
+    &(5/2)(s+1)(s+2)+Bs(s+1)(s+2)-(5/4)s^2(s+1)+5s^2(s+2)=5\\
+    &\iff 10(s+1)(s+2)+4Bs(s+1)(s+2)-5s^2(s+1)+20s^2(s+2)=20\\
+    &\iff 10s^2+30s+20+4Bs^3+12Bs^2+8Bs-5s^3-5s^2+20s^3+40s^2=20\\
+    &\iff (4B+15)s^3+(12B+45)s^2+(8B+30)s+20=20
+    \end{split}\end{equation}$$
+
+    Perhatikan bahwa bagian terakhir dari (17) bisa ditulis
+
+    $$\begin{equation}
+    (4B+15)s^3+(12B+45)s^2+(8B+30)s+20=0s^3+0s^2+0s+20
+    \end{equation}$$
+
+    yang dari situ kita dapatkan 3 persamaan yang identik, yaitu $$4B+15=0$$, $$12B+45=0$$, dan $$8B+30=0$$. Nilai $$B$$ dengan mudah kita hitung, yaitu
+
+    $$B=-\frac{15}{4}$$
 
 4. Substitusi nilai $$A, B, C, D$$ ke Persamaan (7):
 
-    $$\begin{equation}F(s)=-\frac{15/4}{s}+\frac{5/2}{s^2}-\frac{5/4}{s+2}+\frac{5}{s+1}\end{equation}$$
+    $$\begin{equation}F(s)=\frac{5/2}{s^2}+\frac{-15/4}{s}+\frac{-5/4}{s+2}+\frac{5}{s+1}\end{equation}$$
 
-    Persamaan (13) dengan mudah ditransformasi ke domain waktu sebagai berikut.
+    Persamaan (19) dengan mudah ditransformasi ke domain waktu sebagai berikut.
 
-    $$\boxed{f(t)=\left[-\frac{15}{4}+\frac{5}{2}t-\frac{5}{4}e^{-2t}+5e^{-t}\right]u(t)}$$
+    $$\boxed{f(t)=\left[\frac{5}{2}t-\frac{15}{4}-\frac{5}{4}e^{-2t}+5e^{-t}\right]u(t)}$$
 
 Demikian, semoga bermanfaat.
