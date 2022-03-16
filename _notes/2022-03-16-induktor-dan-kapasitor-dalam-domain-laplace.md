@@ -75,5 +75,5 @@ V_C(s)&=\frac{I_C(s)}{sC}+\frac{v_C(0^-)}{s}
 Ekivalensi rangkaian seri kapasitor berdasarkan (6):
 
 <figure class="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/capacitor-series-laplace.jpg" width="30%" height="auto" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/capacitor-series-laplace.jpg" alt="">
 </figure>
