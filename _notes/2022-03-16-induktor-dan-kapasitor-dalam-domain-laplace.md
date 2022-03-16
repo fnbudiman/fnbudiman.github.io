@@ -26,7 +26,7 @@ dimana $$i_L(0^-)$$ adalah arus inisial induktor.
 Ekivalensi rangkaian seri induktor berdasarkan (2):
 
 <figure class="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/inductor-series-laplace.jpg" width="30%" height="auto" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/inductor-series-laplace.jpg" alt="">
 </figure>
 
 Persamaan (2) bisa juga diubah ke bentuk berikut:
@@ -39,7 +39,7 @@ I_L(s)&=\frac{V_L(s)}{sL}+\frac{i_L(0^-)}{s}
 Ekivalensi rangkaian paralel induktor berdasarkan (3):
 
 <figure class="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/inductor-paralel-laplace.jpg" width="30%" height="auto" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/inductor-paralel-laplace.jpg" alt="">
 </figure>
 
 ### Kapasitor
@@ -62,7 +62,7 @@ dimana $$v_C(0^-)$$ adalah tegangan inisial kapsitor.
 Ekivalensi rangkaian paralel kapasitor berdasarkan (5):
 
 <figure class="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/capacitor-paralel-laplace.jpg" width="30%" height="auto" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/capacitor-paralel-laplace.jpg" alt="">
 </figure>
 
 Persamaan (5) bisa juga diubah ke bentuk berikut:
