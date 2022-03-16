@@ -32,7 +32,7 @@ Ekivalensi rangkaian seri induktor berdasarkan (2):
 Persamaan (2) bisa juga diubah ke bentuk berikut:
 
 $$\begin{equation}\begin{split}
-slI_L(s)&=V_L(s)+Li_L(0^-)\\
+sLI_L(s)&=V_L(s)+Li_L(0^-)\\
 I_L(s)&=\frac{V_L(s)}{sL}+\frac{i_L(0^-)}{s}
 \end{split}\end{equation}$$
 
