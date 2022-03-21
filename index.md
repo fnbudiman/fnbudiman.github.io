@@ -46,5 +46,4 @@ In this website, I put the following:
 - blog posts on mixed topics ([here]({{ site.baseurl }}/blog))
 
 Notes and blog posts are mainly written in Indonesian.
-
 -->
