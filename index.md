@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <style>
@@ -9,12 +9,6 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 35px;
-}
-h2 {
-  font-size: 1.75vw;
-  border-bottom:1px solid #CCC;
-  padding-bottom:3px;
-  }
 }
 </style>
 
