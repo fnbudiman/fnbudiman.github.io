@@ -17,7 +17,7 @@ Anggapan-anggapan di atas sebenarnya tidak bisa digeneralisir. Ada sekian banyak
 
 Mengutip definisi di Wikipedia (di <a href="https://en.wikipedia.org/wiki/Public_university" target="_blank">sini</a> dan di <a href="https://en.wikipedia.org/wiki/Private_university" target="_blank">sini</a>), PTN (public university) adalah perguruan tinggi yang dimiliki oleh pemerintah suatu negara (baik pusat maupun daerah) dan menerima pendanaan dari negara dalam porsi yang sangat signifikan. Sebaliknya, PTS (private university) adalah perguruan tinggi yang tidak dioperasikan oleh negara/pemerintah. PTS bisa saja menerima hibah, pinjaman, dan insentif pajak dari pemerintah, namun porsi utama pendanaannya tetap bukan dari pemerintah.
 
-# Ranking Perguruan Tinggi
+## Ranking Perguruan Tinggi
 
 Salah satu indikator yang sering dipakai khalayak untuk menilai sebuah perguruan tinggi adalah ranking perguruan tinggi tersebut. Kita kesampingkan dulu perdebatan tentang apakah ranking-ranking itu valid dan benar-benar menunjukkan kualitas sebuah  perguruan tinggi. 
 
