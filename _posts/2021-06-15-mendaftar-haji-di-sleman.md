@@ -11,7 +11,7 @@ Karena berbagai pembatasan inilah, muncul ketidakpastian apakah kami-kami para *
 
 Alhamdulillah proses mendaftar haji di tanah air saya rasakan sangat mudah. Secara umum hanya ada dua tempat yang perlu didatangi untuk proses ini, yaitu bank syariah dan Kantor Kemenag daerah. Namun, sebaiknya persiapkan segala sesuatunya dengan matang agar tidak bolak-balik di kedua tempat tersebut. Apalagi di masa pandemi ini, semakin cepat semakin baik.
 
-**Persiapan Awal**
+## Persiapan Awal
 
 Persiapan yang paling awal tentu persiapan hati. Haji adalah Rukun Islam yang kelima. Hukumnya fardhu 'ain bagi yang mampu. Ikhlaskan ibadah ini hanya untuk Allah, jangan dicampur dengan niat-niat yang lain, apalagi niat dunia. Ini sekaligus reminder buat saya pribadi :). 
 
@@ -19,7 +19,7 @@ Kalau hati sudah mantap, siapkan dana 25 juta rupiah per orang. Jika yang mendaf
 
 Harap diperhatikan bahwa Kantor Kemenag tempat kita mendaftar haji adalah Kantor Kemenag level kabupaten (bukan provinsi). Kabupaten mana? Jawabannya: kabupaten sesuai alamat kita di KTP (pemahaman saya begini). Jadi, saya harus mendaftar di Kantor Kemenag Sleman karena alamat KTP saya adalah Sleman, meskipun selama tugas belajar ini saya tidak tinggal di Sleman.
 
-**Persiapan Dokumen**
+## Persiapan Dokumen
 
 Barangkali ini yang paling ribet karena dokumen yang perlu disiapkan lumayan banyak. Secara garis besar, dokumen yang dibutuhkan bisa dikelompokkan menjadi dua: (1) dokumen untuk membuka rekening haji di bank, dan (2) dokumen untuk mendaftar di Kantor Kemenag.
 
@@ -52,7 +52,7 @@ Dokumen untuk mendaftar Kantor Kemenag Sleman:
 Catatan:  
 Meterai tidak dibutuhkan di Kantor Kemenag, hanya diperlukan di bank saja. Jadi, tidak perlu stok meterai berlebih. Surat keterangan sehat juga tidak dibutuhkan, kita hanya perlu mengetahui golongan darah, tinggi badan, dan berat badan kita.
 
-**Proses Pendaftaran**
+## Proses Pendaftaran
 
 Apabila semua dokumen sudah siap, tempat pertama yang dituju adalah bank untuk keperluan pembuatan rekening haji (tidak perlu ke Kantor Kemenag, langsung ke bank dulu). Di Kabupaten Sleman, ada 15 bank penerima setoran haji. Semuanya bank syariah. Sebagaimana yang tertulis di flyer pendaftaran haji Kemenag DIY, kelima belas bank tersebut adalah sebagai berikut:
 
