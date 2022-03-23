@@ -6,7 +6,7 @@ collection: notes
 
 Salah satu kegunaan transformasi model induktor dan kapasitor ke domain $$s$$ berguna adalah untuk menyederhanakan analisis rangkaian, terutama rangkaian orde dua. Dalam domain $$s$$, operasi derivative bisa dihindari dan digantikan dengan operasi aljabar biasa. 
 
-### Induktor
+## Induktor
 
 Hubungan tegangan-arus induktor dalam domain $$t$$:
 
@@ -42,7 +42,7 @@ Ekivalensi rangkaian paralel induktor berdasarkan (3):
     <img src="{{ site.url }}{{ site.baseurl }}/images/inductor-paralel-laplace.jpg" alt="">
 </figure>
 
-### Kapasitor
+## Kapasitor
 
 Hubungan tegangan-arus kapasitor dalam domain $$t$$:
 
