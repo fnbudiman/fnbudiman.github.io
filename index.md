@@ -2,6 +2,8 @@
 layout: page
 ---
 
+<!--default layout: default-->
+
 <style>
 img {
   border-radius: 30px;
