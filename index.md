@@ -32,8 +32,6 @@ For any correspondence, feel free to <a href="mailto:firmansyah.nur@uii.ac.id" t
     &nbsp;
   </div>
   <div class="column right">
-    <p></p>
-    
     <p><b>Firmansyah Nur Budiman</b></p>
 
     <p>Lecturer<br>
