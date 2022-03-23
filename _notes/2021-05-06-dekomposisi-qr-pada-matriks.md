@@ -36,7 +36,7 @@ dimana \\(A\in\mathbb{R}^{m\times n}\\). Dengan menggunakan data \\(\mathbf{x}\\
 
 $$A=\begin{bmatrix} 1 & 0 & 0 & 0\\ 1 & 1 & 1 & 1\\ 1 & 2 & 4 & 8\\ 1 & 3 & 9 & 27\\ 1 & 4 & 16 & 64\end{bmatrix}$$ 
 
-## 2. Lakukan dekomposisi \\(QR\\) pada matriks \\(A\\)
+### 2. Lakukan dekomposisi \\(QR\\) pada matriks \\(A\\)
 
 Matriks \\(A\\) yang kita dapatkan di atas akan kita gunakan untuk menghitung $$\mathbf{x}_{ls}$$ dari persamaan $$\mathbf{y}=A\mathbf{x}_{ls}$$. Sebenanrnya cara yang paling mudah adalah dengan operasi inverse matriks: $$\mathbf{x}_{ls}=A^{-1}\mathbf{y}$$. Namun ini hanya berlaku apabila matriks $$A$$ adalah matriks persegi, sementara matriks $$A$$ kita bukanlah matriks persegi. Salah satu prosedur yang bisa dilakukan adalah dengan dekomposisi $$QR$$ pada matriks $$A$$, yaitu memfaktorkan matriks $$A$$ menjadi matriks $$Q$$ dan matriks $$R$$, 
 
@@ -98,7 +98,7 @@ Maka, dengan data matriks $$A$$ and $$Q$$ di atas didapatkan matriks $$R$$ sebag
 
 $$R=\begin{bmatrix} 2.2361 & 4.4721 & 13.4164 & 44.7214\\ 0 & 3.1623 & 12.6491 & 48.6991\\ 0 & 0 & 3.7417 & 22.4499\\ 0 & 0 & 0 & 3.7947 \end{bmatrix}$$
 
-## 3. Hitung nilai estimasi *least square* $$\mathbf{x}_{ls}$$
+### 3. Hitung nilai estimasi *least square* $$\mathbf{x}_{ls}$$
 
 Estimasi least square $$\mathbf{x}_{ls}$$ dihitung sebagai berikut
 
