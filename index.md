@@ -11,11 +11,9 @@ img {
   margin-bottom: 35px;
 }
 h2 {
+  font-size: 4.0vh;
   border-bottom:1px solid #CCC;
   padding-bottom:3px;
-  @include relative-font-size(1.5); /*default: 2*/
-  @include media-query($on-laptop) {
-    @include relative-font-size(1.25); /*default: 1.75*/
   }
 }
 </style>
@@ -40,7 +38,9 @@ For any correspondence, feel free to <a href="mailto:firmansyah.nur@uii.ac.id" t
 
     <p>Lecturer<br>
     <a href="https://ee.uii.ac.id/" target="_blank">Department of Electrical Engineering</a><br>
-    <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a></p>
+    <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a><br>
+    Jl. Kaliurang Km 14.5 Sleman<br>
+    Yogyakarta 55584</p>
 
     <img src="images/email.jpg" alt="" style="border-radius: 0; float: left; width: 270px; height: auto">
   </div>
