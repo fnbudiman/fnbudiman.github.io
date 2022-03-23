@@ -4,11 +4,11 @@ title: Linearisasi Perkalian Dua Variabel Kontinyu
 collection: notes
 ---
 
-Di tulisan <a href="https://fnbudiman.github.io/linearisasi-perkalian-dua-variabel/" target="_blank">sebelumnya</a>, kita telah belajar bagaimana melakukan linearisasi perkalian antara variabel biner dan variable kontinyu. Kali ini kita beralih ke ragam berikutnya: perkalian antara dua variabel kontinyu. Perkalian antara dua variabel kontinyu tentu saja lebih rumit. 
+Di tulisan <a href="https://fnbudiman.github.io/notes/linearisasi-perkalian-dua-variabel/" target="_blank">sebelumnya</a>, kita telah belajar bagaimana melakukan linearisasi perkalian antara variabel biner dan variable kontinyu. Kali ini kita beralih ke ragam berikutnya: perkalian antara dua variabel kontinyu. Perkalian antara dua variabel kontinyu tentu saja lebih rumit. 
 
 Berbeda dengan linearisasi pada perkalian antara variabel biner dan variabel kontinyu, linearisasi pada perkalian antara dua variabel kontinyu tidak bisa dilakukan secara eksak. Maksudnya, hasil linearisasi tidaklah 100% mewakili ekspresi aslinya, ada sekian persen galat (*error*). Meskipun demikian, linearisasi ini tetap sangat *worth it* untuk dilakukan. Salah satu contoh aplikasinya adalah dalam dunia optimisasi, dimana ekspresi perkalian antara dua variabel kontinyu banyak dijumpai baik dalam fungsi objektif maupun dalam fungsi pengekangnya.
 
-**Teori**
+## Teori
 
 Linearisasi perkalian dua variabel kontinyu dilakukan dengan terlebih dahulu mengubah ekspresi asli ke bentuk *separable function*, yakni jumlahan dari fungsi variabel skalar. Misalkan kita mempunyai ekspresi $$x_1x_2$$, dimana $$x_1,x_2\in\mathbb{R}$$. Secara matematis, ekivalensi ekspresi $$x_1x_2$$ dengan *separable function*-nya dapat ditulis sebagai berikut.
 
@@ -64,7 +64,7 @@ m_cy \hspace{15pt} y_b\leq y\leq y_\max
 
 Semakin banyak segmen garis lurus yang kita pakai, ekspresi linear yang kita hasilkan semakin mendekati ekspresi aslinya. Konsekuensi yang muncul tentu beban komputasi yang bertambah.
 
-**Contoh Aplikasi**
+## Contoh Aplikasi
 
 Misalkan dalam sebuah optimisasi kita memiliki fungsi pengekang sebagai berikut.
 
