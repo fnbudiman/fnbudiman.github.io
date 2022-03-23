@@ -40,7 +40,7 @@ For any correspondence, feel free to <a href="mailto:firmansyah.nur@uii.ac.id" t
 
     <p>Lecturer<br>
     <a href="https://ee.uii.ac.id/" target="_blank">Department of Electrical Engineering</a><br>
-    Universitas Islam Indonesia</p>
+    <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a></p>
 
     <img src="images/email.jpg" alt="" style="border-radius: 0; float: left; width: 270px; height: auto">
   </div>
