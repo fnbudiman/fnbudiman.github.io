@@ -13,6 +13,10 @@ img {
 h2 {
   border-bottom:1px solid #CCC;
   padding-bottom:3px;
+  @include relative-font-size(1.5); /*default: 2*/
+  @include media-query($on-laptop) {
+    @include relative-font-size(1.25); /*default: 1.75*/
+  }
 }
 </style>
 
@@ -35,10 +39,8 @@ For any correspondence, feel free to <a href="mailto:firmansyah.nur@uii.ac.id" t
     <p><b>Firmansyah Nur Budiman</b></p>
 
     <p>Lecturer<br>
-    Department of Electrical Engineering<br>
+    <a href="https://ee.uii.ac.id/" target="_blank">Department of Electrical Engineering</a><br>
     Universitas Islam Indonesia</p>
-
-    <p><a href="{{ site.baseurl }}">https://fnbudiman.github.io</a></p>
 
     <img src="images/email.jpg" alt="" style="border-radius: 0; float: left; width: 270px; height: auto">
   </div>
