@@ -31,10 +31,9 @@ For any correspondence, feel free to <a href="mailto:firmansyah.nur@uii.ac.id" t
     <img src="images/me.jpg" alt="" style="padding-left: 5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px">
     &nbsp;
   </div>
-  <div class="column middle">
-    &nbsp;
-  </div>
   <div class="column right">
+    <p></p>
+    
     <p><b>Firmansyah Nur Budiman</b></p>
 
     <p>Lecturer<br>
