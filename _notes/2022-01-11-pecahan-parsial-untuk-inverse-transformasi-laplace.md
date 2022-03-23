@@ -6,7 +6,7 @@ collection: notes
 
 Dalam kuliah sistem kendali, salah satu konsep yang penting adalah mengenai inverse transformasi Laplace. Gunanya adalah untuk mengubah kembali fungsi dalam domain Laplace ke domain waktu. Nah, teknik yang sering dipakai untuk keperluan ini adalah teknik pecahan parsial (_partial fraction_). Kita akan belajar bagaimana menggunakan pecahan parsial ini untuk meng-handle dua contoh fungsi dengan karakteristik _pole_ yang berbeda.
 
-### Contoh 1
+## Contoh 1
 
 Transformasikan fungsi berikut ke domain waktu!
 
@@ -52,7 +52,7 @@ Contoh pertama ini adalah contoh yang paling mudah karena sistem di atas memilik
 
     Perhatikan bahwa fungsi step $$u(t)$$ ditambahkan untuk mengakomodir transformasi Laplace unilateral.
 
-### Contoh 2
+## Contoh 2
 
 Transformasikan fungsi berikut ke domain waktu!
 
