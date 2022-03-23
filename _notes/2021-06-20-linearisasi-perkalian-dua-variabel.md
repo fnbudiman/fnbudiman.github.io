@@ -6,7 +6,7 @@ collection: notes
 
 Dalam dunia matematika, ekspresi yang melibatkan perkalian antar variabel dikenal dengan ekspresi non-linear. Ekspresi non-linear membuat proses perhitungan matematika menjadi "boros", dalam artian beban komputasi menjadi sangat besar. Pengalaman saya sendiri, beban komputasi yang besar ini sangat terasa ketika bekerja dengan jumlah variabel yang banyak. Salah satu solusi untuk mengurangi beban ini secara signifikan adalah dengan me-linear-kan ekspresi non-linear tersebut. Bagaimana caranya? Mari kita pelajari di postingan ini.
 
-**Teori**
+## Teori
 
 Ada beberapa ragam perkalian antar variabel. Yang paling sering ditemui ada dua: (i) perkalian antara dua variabel kontinyu, dan (ii) perkalian antara variabel biner dan variabel kontinyu. Variabel kontinyu yang saya maksud adalah variabel yang bisa bernilai bilangan riil berapapun, baik integer maupun non-integer. Adapun variabel biner adalah variabel integer spesial yang hanya memiliki salah satu dari dua nilai, yakni 0 dan 1. Postingan ini saya khususkan untuk jenis perkalian yang kedua.
 
@@ -22,7 +22,7 @@ $$x-x^u(1-i)\leq y\leq x-x^l(1-i)$$
 
 Jadi, satu ekspresi tergantikan dengan tiga ekspresi. Lebih rumit? Tidak juga. Perhatikan di ketiga ekspresi tersebut. Tidak kita jumpai satu pun perkalian antar variabel. Yang ada adalah perkalian antara variabel dan konstanta.
 
-**Contoh Aplikasi**
+## Contoh Aplikasi
 
 Ekspresi non-linear banyak dijumpai di optimisasi sebagai bagian dari fungsi pengekang. Ekspresi ini bisa menyebabkan non-convexity pada optimisasi. Optimisasi non-convex jauh lebih kompleks penyelesaiannya dibanding optimisasi convex. Sebagai contoh, perhatikan fungsi pengekang berikut.
 
