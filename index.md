@@ -26,7 +26,7 @@ For any correspondence, feel free to <a href="mailto:firmansyah.nur@uii.ac.id" t
 
 <div class="row">
   <div class="column left">
-    <img src="images/me.jpg" alt="" style="padding-left: 5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px">
+    <img src="images/me.jpg" alt="" style="width: 160px; height: auto">
     &nbsp;
   </div>
   <div class="column right">
