@@ -31,11 +31,11 @@ Sebagaimana yang sudah saya sebutkan di atas, untuk menggunakan `latexdiff`, kit
     - kata atau kalimat yang dihapus akan diberi warna merah dan dicoret
     - kata atau kalimat baru akan diberi warna biru dan diberi garis bawah bergelombang
 
-Contoh tampilan output dari `diff.tex` ada di sini,
+Contoh tampilan output dari `diff.tex` adalah ini:
 
-<center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Working with latexdiff, a track changes-like feature in Latex <a href="https://t.co/vUkPlrYZyD">pic.twitter.com/vUkPlrYZyD</a></p>&mdash; Firmansyah Nur Budiman (@fnbudiman) <a href="https://twitter.com/fnbudiman/status/1462104534981955584?ref_src=twsrc%5Etfw">November 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-</center>
+<figure class="center">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/latexdiff.png" alt="">
+</figure>
 
 Sejauh ini, saya cukup puas dengan tampilan default ini. Namun, apabila anda ingin melakukan kustomisasi lebih lanjut, silakan belajar dari <a href="https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents" target="_blank">sini</a>.
 
