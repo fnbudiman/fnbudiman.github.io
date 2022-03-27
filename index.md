@@ -29,6 +29,7 @@ img {
     Yogyakarta 55584</p>
 
     <img src="images/email.jpg" alt="" style="border-radius: 0; float: left; width: 270px; height: auto">
+    <p></p>
   </div>
 </div>
 
