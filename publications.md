@@ -5,16 +5,31 @@ permalink: /publications/
 ---
 
 ### 2022
-* **Optimal sizing of grid-connected photovoltaic system for a large commercial load in Saudi Arabia**  
-    M. M. A. Seedahmed, M. A. M. Ramli, H. R. E. H. Bouchekara, A. H. Milyani, M. Rawa, <u>F. N. Budiman</u>, R. F. Muktiadji, and S. M. Ul Hassan  
-    *Alexandria Engineering Journal*, Vol. 61, Issue 8, 2021  
-    DOI: <a href="https://doi.org/10.1016/j.aej.2021.12.013" target="_blank">10.1016/j.aej.2021.12.013</a>
+* **Stochastic optimization for the scheduling of a grid-connected microgrid with a hybrid energy storage system considering multiple uncertainties**  
+    <u>F. N. Budiman</u>, M. A. M. Ramli, A. H. Milyani, H. R. E. H. Bouchekaraca, M. Rawa, R. F. Muktiadji, and M. M. A. Seedahmed  
+    *Energy Reports*, Vol. 8, pp. 7444-7456, 2022  
+    DOI: <a href="https://doi.org/10.1016/j.egyr.2022.05.249" target="_blank">10.1016/j.egyr.2022.05.249</a>
+
+* **Control of Boost Converter Using Observer-Based Backstepping Sliding Mode Control for DC Microgrid**  
+    R. F. Muktiadji, M. A. M. Ramli, H. R. E. H. Bouchekara, A. H. Milyani, M. Rawa, M. M. A. Seedahmed, and <u>F. N. Budiman</u>  
+    *Frontiers in Energy Research*, Vol. 10, Article 828978, 2022  
+    DOI: <a href="https://doi.org/10.3389/fenrg.2022.828978" target="_blank">10.3389/fenrg.2022.828978</a>
+
+* **Design of 3D Wind Farm Layout Using an Improved Electric Charge Particles Optimization With Hub-Height Variety**  
+    T. Hidayat, M. A. M. Ramli, H. R. E. H. Bouchekara, J. Khalid, and <u>F. N. Budiman</u>  
+    *IEEE Access*, Vol. 10, pp. 31385-31396, 2022  
+    DOI: <a href="https://doi.org/10.1109/ACCESS.2022.3158981" target="_blank">10.1109/ACCESS.2022.3158981</a>
     
 ### 2021
 * **Dimensional analysis of partial discharge initiated by a metallic particle adhering to the spacer surface in a gas-insulated system**  
     <u>F. N. Budiman</u> and A. M. Rushdi  
-    *Communications in Science and Technology*, Vol. 6, No. 2, 2021  
+    *Communications in Science and Technology*, Vol. 6, No. 2, pp. 91-100, 2021  
     DOI: <a href="https://doi.org/10.21924/cst.6.2.2021.556" target="_blank">10.21924/cst.6.2.2021.556</a>
+
+* **Optimal sizing of grid-connected photovoltaic system for a large commercial load in Saudi Arabia**  
+    M. M. A. Seedahmed, M. A. M. Ramli, H. R. E. H. Bouchekara, A. H. Milyani, M. Rawa, <u>F. N. Budiman</u>, R. F. Muktiadji, and S. M. Ul Hassan  
+    *Alexandria Engineering Journal*, Vol. 61, Issue 8, pp. 6523-6540, 2021  
+    DOI: <a href="https://doi.org/10.1016/j.aej.2021.12.013" target="_blank">10.1016/j.aej.2021.12.013</a>
 
 ### 2020
 * **Pemanfaatan Energi Terbarukan untuk Pembangkit Listrik Tenaga Surya Berbasis Komunitas: Menuju Desa Mandiri Energi**  
