@@ -98,4 +98,4 @@ permalink: /publications/
 
 <p>---</p>
 
-See also: <a href="https://scholar.google.com/citations?user=0nmKrPAAAAAJ&hl=en" target="_blank">Google Scholar</a> / <a href="https://www.researchgate.net/profile/Firmansyah-Nur-Budiman" target="_blank">ResearchGate</a>
+See also my <a href="https://scholar.google.com/citations?user=0nmKrPAAAAAJ&hl=en" target="_blank">Google Scholar</a> and my <a href="https://www.researchgate.net/profile/Firmansyah-Nur-Budiman" target="_blank">ResearchGate</a>
