@@ -10,6 +10,11 @@ permalink: /publications/
     *Energy Reports*, Vol. 8, pp. 7444-7456, 2022  
     DOI: <a href="https://doi.org/10.1016/j.egyr.2022.05.249" target="_blank">10.1016/j.egyr.2022.05.249</a>
 
+* **Optimal sizing of grid-connected photovoltaic system for a large commercial load in Saudi Arabia**  
+    M. M. A. Seedahmed, M. A. M. Ramli, H. R. E. H. Bouchekara, A. H. Milyani, M. Rawa, <u>F. N. Budiman</u>, R. F. Muktiadji, and S. M. Ul Hassan  
+    *Alexandria Engineering Journal*, Vol. 61, Issue 8, pp. 6523-6540, 2022  
+    DOI: <a href="https://doi.org/10.1016/j.aej.2021.12.013" target="_blank">10.1016/j.aej.2021.12.013</a>
+
 * **Control of Boost Converter Using Observer-Based Backstepping Sliding Mode Control for DC Microgrid**  
     R. F. Muktiadji, M. A. M. Ramli, H. R. E. H. Bouchekara, A. H. Milyani, M. Rawa, M. M. A. Seedahmed, and <u>F. N. Budiman</u>  
     *Frontiers in Energy Research*, Vol. 10, Article 828978, 2022  
@@ -25,11 +30,6 @@ permalink: /publications/
     <u>F. N. Budiman</u> and A. M. Rushdi  
     *Communications in Science and Technology*, Vol. 6, No. 2, pp. 91-100, 2021  
     DOI: <a href="https://doi.org/10.21924/cst.6.2.2021.556" target="_blank">10.21924/cst.6.2.2021.556</a>
-
-* **Optimal sizing of grid-connected photovoltaic system for a large commercial load in Saudi Arabia**  
-    M. M. A. Seedahmed, M. A. M. Ramli, H. R. E. H. Bouchekara, A. H. Milyani, M. Rawa, <u>F. N. Budiman</u>, R. F. Muktiadji, and S. M. Ul Hassan  
-    *Alexandria Engineering Journal*, Vol. 61, Issue 8, pp. 6523-6540, 2021  
-    DOI: <a href="https://doi.org/10.1016/j.aej.2021.12.013" target="_blank">10.1016/j.aej.2021.12.013</a>
 
 ### 2020
 * **Pemanfaatan Energi Terbarukan untuk Pembangkit Listrik Tenaga Surya Berbasis Komunitas: Menuju Desa Mandiri Energi**  
