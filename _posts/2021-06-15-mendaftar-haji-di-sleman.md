@@ -81,7 +81,7 @@ Saya pribadi memilih BPD DIY Syariah dan kantor cabang yang saya datangi adalah 
 
 Ada beberapa catatan penting dalam proses pembukaan rekening haji ini:
 
-- Rekening haji yang kita buka nantinya akan ber-akad mudhorobah. Kita tidak bisa minta akad wadi'ah. Bagi yang berkeinginan rekening-nya tidak mendapat bunga (atau istilahnya bagi hasil), bisa minta CS untuk bagi menghapus bagi hasil (ini yang saya lakukan).
+- Rekening haji yang kita buka nantinya akan ber-akad mudhorobah. Kita tidak bisa minta akad wadi'ah. Bagi yang berkeinginan rekening-nya tidak mendapat bunga (atau istilahnya bagi hasil), bisa minta CS untuk menghapus bagi hasil (ini yang saya lakukan).
 - Selain jumlah pokok 25 juta, ada Rp 500.000 yang harus kita setor sebagai jumlah minimum mengendap di rekening. Uang Rp 500.000 ini nantinya bisa kita ambil dengan cara menutup rekening, tentu setelah kita mendapat giliran berangkat haji.
 - Tidak harus membawa uang 25 juta dalam bentuk tunai. Saya pribadi hanya setor tunai Rp 500.000, kemudian 25 juta saya transfer dari mobile banking rekening saya yang lain.
 
