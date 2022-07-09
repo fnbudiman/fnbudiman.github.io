@@ -56,12 +56,13 @@ As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microg
 
 ## Work Experiences
 * Lecturer at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2015-now
+* Research Assistant at <a href="ttps://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2021-2022
 * Academic Intern at <a href="https://ugm.ac.id/">Universitas Gadjah Mada</a>, 2013-2015
 * Research Assistant at <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2012-2013
   
 ## Programming Skills
-* MATLAB
-* Python
+* MATLAB (many of my publications use MATLAB)
+* Python (<a href="https://doi.org/10.1016/j.egyr.2022.05.249" target="_blank">my publication</a> that uses Python)
 * Julia
 
 ## PhD Courses Completed at KAU
