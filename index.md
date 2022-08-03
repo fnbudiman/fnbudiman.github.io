@@ -74,6 +74,7 @@ As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microg
 * EE724 Distributed Generations
 * EE725 Dielectric Phenomena in High Voltage Equipments
 * EE729 Power System Optimization
+* EE733 Advanced Measurements and Instrumentations
 
 ## Courses Taught at UII
 * Electric Power Systems
