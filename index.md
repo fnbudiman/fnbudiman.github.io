@@ -16,7 +16,11 @@ img {
 
 <style>
 img{
-  border-radius: 50%
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
 }
 </style>
 
