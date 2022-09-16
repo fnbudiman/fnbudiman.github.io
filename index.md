@@ -4,7 +4,7 @@ layout: page
 
 <!--default layout: default-->
 
-<style>
+<!-- <style>
 img {
   border-radius: 30px;
   display: block;
@@ -12,11 +12,17 @@ img {
   margin-right: auto;
   margin-bottom: 15px;
 }
+</style> -->
+
+<style>
+img{
+  border-radius: 50%
+}
 </style>
 
 <div class="row">
   <div class="column left">
-    <img src="images/me.jpg" alt="" style="width: 160px; height: auto">
+    <img src="images/pict.jpg" alt="" style="width: 200px; height: auto">
     &nbsp;
   </div>
   <div class="column right">
