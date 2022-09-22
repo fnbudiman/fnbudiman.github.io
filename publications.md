@@ -31,6 +31,11 @@ permalink: /publications/
     *Communications in Science and Technology*, Vol. 6, No. 2, pp. 91-100, 2021  
     DOI: <a href="https://doi.org/10.21924/cst.6.2.2021.556" target="_blank">10.21924/cst.6.2.2021.556</a>
 
+* **Reliability evaluation of an electric power system utilizing fault-tree analysis**  
+    <u>F. N. Budiman</u> and A. M. Rushdi  
+    *Journal of Engineering and Computer Sciences*, Vol. 14, No. 1, pp. 37-63, 2021  
+    Link: <a href="https://jecs.qu.edu.sa/index.php/jec/article/view/2307" target="_blank">jecs.qu.edu.sa/index.php/jec/article/view/2307</a>
+
 ### 2020
 * **Pemanfaatan Energi Terbarukan untuk Pembangkit Listrik Tenaga Surya Berbasis Komunitas: Menuju Desa Mandiri Energi**  
     E. S. Wahyuni, H. Mubarok, <u>F. N. Budiman</u>, and S. W. Pratomo  
