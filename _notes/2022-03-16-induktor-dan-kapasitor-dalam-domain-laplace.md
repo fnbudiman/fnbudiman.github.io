@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Induktor dan Kapasitor dalam Domain Laplace
-image: /images/inductor-series-laplace.jpg
 collection: notes
 ---
 
