@@ -10,16 +10,5 @@
   {%- endif -%}
   {% include mathjax.html %}
   {% include font-awesomes.html %}
-
-  <!-- Twitter cards -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@{{ site.twitter_username }}">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <{% if page.image %}
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-  {% else %}
-  <meta name="twitter:image" content="{{ site.title_image }}">
-  {% endif %}
-<!-- end of Twitter cards -->
-
+  {% include twitter_card.html %}
 </head>
