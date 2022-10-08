@@ -20,7 +20,7 @@
 
 title: Firmansyah Nur Budiman
 email: firmansyah.nur@uii.ac.id
-description: Website, blog, and notes
+#description: Website, blog, and notes
 title_image: /images/title-image.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
