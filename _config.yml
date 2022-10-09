@@ -21,9 +21,9 @@
 title: Firmansyah Nur Budiman
 email: firmansyah.nur@uii.ac.id
 #description: Website, blog, and notes
-title_image: "https://fnbudiman.github.io/images/title-image.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title_image: "https://fnbudiman.github.io/images/title-image.png"
 twitter_username: fnbudiman
 instagram_username: fnbudiman
 facebook_username: fnbudiman
