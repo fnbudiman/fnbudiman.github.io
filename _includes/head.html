@@ -7,9 +7,9 @@
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
+    {% seo %}
   {%- endif -%}
   {% include mathjax.html %}
   {% include font-awesomes.html %}
-  {% seo %}
   <!--{% include twitter_card.html %}-->
 </head>
