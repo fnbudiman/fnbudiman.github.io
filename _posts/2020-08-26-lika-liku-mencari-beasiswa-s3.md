@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lika-Liku Mencari Beasiswa S3
-image: "/images/title-image.png"
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
 ---
