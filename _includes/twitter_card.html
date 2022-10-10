@@ -1,10 +1,10 @@
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@{{ site.twitter_username }}" />
-<meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:image:src" content="https://fnbudiman.github.io/images/title-image.png" />
+<meta name="twitter:site" content="@{{ site.twitter_username }}">
+<meta name="twitter:title" content="{{ page.title }}">
 
-<!-- {% if page.image %}
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+{% if page.image %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
 {% else %}
-<meta name="twitter:image" content="{{ site.title_image }}" />
-{% endif %} -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.title_image }}">
+{% endif %}
