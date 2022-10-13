@@ -1,0 +1,9 @@
+<meta property="og:type" content="{{ type }}" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+{% if page.image %}
+<meta property="og:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}" />
+{% endif %}
+{% if page.is_post %}
+<meta property="og:site_name" content="{{ site.title }}" />
+{% endif %}
