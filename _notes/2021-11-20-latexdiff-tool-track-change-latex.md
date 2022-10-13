@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Latexdiff: Tool Track Changes di Latex'
+image: /images/title-image.png
 collection: notes
 ---
 
