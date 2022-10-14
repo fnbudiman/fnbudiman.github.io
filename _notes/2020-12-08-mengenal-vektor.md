@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mengenal Vektor
+image: images/post/cover_mengenal-vektor.png
 collection: notes
 ---
 
