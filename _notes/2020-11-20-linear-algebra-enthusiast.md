@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linear Algebra Enthusiast
+images: /images/post/cover_linalg-enthusiast.png
 collection: notes
 ---
 
