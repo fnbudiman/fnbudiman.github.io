@@ -83,6 +83,7 @@ As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microg
 * EE720 Electromagnetic Compatibility and Power Quality
 * EE724 Distributed Generations
 * EE725 Dielectric Phenomena in High Voltage Equipments
+* EE727 Industrial Utilization of Electrical Energy
 * EE729 Power System Optimization
 * EE733 Advanced Measurements and Instrumentations
 
