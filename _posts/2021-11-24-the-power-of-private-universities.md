@@ -11,7 +11,7 @@ Bagi saya yang bekerja di kampus, isu-isu seputar perguruan tinggi -baik lokal m
 
 Di Indonesia sendiri, PTS masih menjadi pilihan kedua bagi lulusan SMA yang akan melanjutkan pendidikan ke perguruan tinggi. PTS dianggap kurang prestis, kurang menjanjikan, dan lulusannya sulit mencari pekerjaan dibanding kolega-koleganya di PTN. 
 
-Anggapan-anggapan di atas sebenarnya tidak bisa digeneralisir. Ada sekian banyak PTN dan ada sekian banyak PTS. Faktanya, PTN tertentu lebih bergengsi dibanding banyak PTS dan sebaliknya, PTS tertentu lebih bergengsi dibanding banyak PTN. <i>I believe this is debatable</i>. Ada yang banyak aspek yang perlu diteliti untuk menilai apakah sebuah perguruan tinggi lebih bagus atau lebih jelek dibanding perguruan tinggi lainnya.
+Anggapan-anggapan di atas sebenarnya tidak bisa digeneralisir. Ada sekian banyak PTN dan ada sekian banyak PTS. Faktanya, PTN tertentu lebih bergengsi dibanding banyak PTS dan sebaliknya, PTS tertentu lebih bergengsi dibanding banyak PTN. Ada banyak aspek yang perlu diteliti untuk menilai apakah sebuah perguruan tinggi lebih bagus atau lebih jelek dibanding perguruan tinggi lainnya.
 
 ## Definisi PTN dan PTS
 
