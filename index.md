@@ -45,9 +45,9 @@ img{
 
 ## Bio
 
-I'm a lecturer in <a href="https://ee.uii.ac.id/" target="_blank">electrical engineering</a> at <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a>, but currently doing PhD at <a href="https://www.kau.edu.sa/home_ENGLISH.aspx" target="_blank">King Abdulaziz University</a>. Yes, I officially have two "homes" now.
+I'm a lecturer in <a href="https://ee.uii.ac.id/" target="_blank">electrical engineering</a> at <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a>, but currently in the completion of my PhD at <a href="https://www.kau.edu.sa/home_ENGLISH.aspx" target="_blank">King Abdulaziz University</a>. Yes, I officially have two "homes" now.
 
-As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microgrid operation is subject to high-degree uncertainties produced by different sources, due to which deterministic optimization is unrealistic. This motivates me to seek an optimal framework of stochastic optimization deployment.
+I'm working in the area of stochastic scheduling of a grid-connected microgrid. Microgrid operation is subject to high-degree uncertainties produced by different sources, due to which deterministic optimization is insufficient. This motivates me to seek an optimal framework of stochastic optimization deployment.
 
 ## Education
 * Ph.D in Electrical Engineering, <a href="https://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2020-now
@@ -61,8 +61,8 @@ As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microg
 * M.Sc. Scholarship from <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2010-2013
 
 ## Areas of Interest
-* Detection and pattern recognition of partial discharge in high-voltage apparatuses
-* Stochastic optimization of microgrids and power systems
+* Stochastic optimization of microgrids and power systems (current)
+* Detection and pattern recognition of partial discharge in high-voltage apparatuses (past)
 
 ## Work Experiences
 * Lecturer at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2015-now
@@ -71,11 +71,13 @@ As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microg
 * Graduate Research and Teaching Assistant at <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2012-2013
   
 ## Programming Skills
-* MATLAB (many of my publications use MATLAB)
-* Python (<a href="https://doi.org/10.1016/j.egyr.2022.05.249" target="_blank">this paper</a> uses Python)
-* Julia
+I'm not a computing person by formal education, but I have been coding extensively in my research works. I use the following languages:
+* MATLAB (arguably the easiest one and many of my publications use it)
+* Python (I use Python <a href="https://doi.org/10.1016/j.egyr.2022.05.249" target="_blank">here</a> with <a href="https://www.cvxpy.org/" target="_blank">CVXPY</a> as the main package)
+* Julia (I use Julia <a href="https://doi.org/10.1016/j.ijepes.2023.109650" target="_blank">here</a> with <a href="https://jump.dev/JuMP.jl/stable/" target="_blank">JuMP.jl</a> and <a href="https://dss-extensions.org/OpenDSSDirect.jl/latest/" target="_blank">OpenDSSDirect.jl</a> as the main packages)
 
 ## PhD Courses Completed at KAU
+My PhD program involves many courses and I have completed the following:
 * EE701 Advanced Stochastic Processes
 * EE702 Advanced Linear Systems
 * EE703 Advanced Modeling, Simulation, and Optimization
@@ -98,6 +100,11 @@ As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microg
 
 ## Selected Publications
 
+* **Optimal scheduling of a microgrid with power quality constraints based on demand side management under grid-connected and islanding operations**  
+    <u>F. N. Budiman</u>, M. A. M. Ramli, H. R. E. H. Bouchekaraca, and A. H. Milyani  
+    *International Journal of Electrical Power and Energy Systems*, Vol. 155, p. 109650, 2024  
+    DOI: <a href="https://doi.org/10.1016/j.ijepes.2023.109650" target="_blank">10.1016/j.ijepes.2023.109650</a>
+
 * **Stochastic optimization for the scheduling of a grid-connected microgrid with a hybrid energy storage system considering multiple uncertainties**  
     <u>F. N. Budiman</u>, M. A. M. Ramli, A. H. Milyani, H. R. E. H. Bouchekaraca, M. Rawa, R. F. Muktiadji, and M. M. A. Seedahmed  
     *Energy Reports*, Vol. 8, pp. 7444-7456, 2022  
@@ -112,11 +119,6 @@ As part of my PhD, I'm working on the stochastic scheduling of microgrid. Microg
     <u>F. N. Budiman</u> and E. S. Wahyuni  
     In *Proc. 3rd International Conference on Information Technology, Computer, and Electrical Engineering*, pp. 191-196, 2016  
     DOI: <a href="https://doi.org/10.1109/ICITACEE.2016.7892437" target="_blank">10.1109/ICITACEE.2016.7892437</a>
-
-* **Partial discharge analysis using PCA and ANN for the estimation of size and position of metallic particle adhering to spacer in Gas-Insulated System**  
-    <u>F. N. Budiman</u> and Y. Khan  
-    In *Proc. 6th International Conference on Information Technology and Electrical Engineering*, pp. 325-330, 2014  
-    DOI: <a href="https://doi.org/10.1109/ICITEED.2014.7007947" target="_blank">10.1109/ICITEED.2014.7007947</a>
 
 * **Utilization of artificial neural network for the estimation of size and position of metallic particle adhering to spacer in GIS**  
     <u>F. N. Budiman</u>, Y. Khan, N. H. Malik, A. A. Al-Arainy, and A. Beroual  
