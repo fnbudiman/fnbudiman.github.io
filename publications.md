@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2024
+* **Optimal scheduling of a microgrid with power quality constraints based on demand side management under grid-connected and islanding operations**  
+    <u>F. N. Budiman</u>, M. A. M. Ramli, H. R. E. H. Bouchekaraca, and A. H. Milyani  
+    *International Journal of Electrical Power and Energy Systems*, Vol. 155, p. 109650, 2024  
+    DOI: <a href="https://doi.org/10.1016/j.ijepes.2023.109650" target="_blank">10.1016/j.ijepes.2023.109650</a>
+
 ### 2022
 * **Stochastic optimization for the scheduling of a grid-connected microgrid with a hybrid energy storage system considering multiple uncertainties**  
     <u>F. N. Budiman</u>, M. A. M. Ramli, A. H. Milyani, H. R. E. H. Bouchekaraca, M. Rawa, R. F. Muktiadji, and M. M. A. Seedahmed  
