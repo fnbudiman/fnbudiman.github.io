@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Tentang Ujian Komprehensif Doktoral di ECE Department KAU
 categories: [Study at KAU]
 tags:
