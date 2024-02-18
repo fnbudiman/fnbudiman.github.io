@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Safar ke Madinah
 categories: Diary
 tags:
