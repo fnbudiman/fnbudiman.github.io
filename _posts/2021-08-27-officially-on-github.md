@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Officially on GitHub
 categories: Diary
 tags: [blogging,jekyll,github]
