@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Merasakan IP Maksimal
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
