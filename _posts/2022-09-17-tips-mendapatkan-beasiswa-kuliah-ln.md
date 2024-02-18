@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Tips Mendapatkan Beasiswa Kuliah di Luar Negeri
 categories: [Around Campus]
 tags:
