@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Tiba di Saudi di Kala Pandemi
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
