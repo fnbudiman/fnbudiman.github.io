@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: "Satu Tahun Menjadi Mahasiswa PhD: Sebuah Refleksi"
 categories: [Study at KAU]
 tags:
