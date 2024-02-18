@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: FAQ Seputar Studi Pascasarjana di KAU
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
