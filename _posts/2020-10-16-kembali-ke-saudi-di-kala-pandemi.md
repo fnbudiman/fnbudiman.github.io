@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Kembali ke Saudi di Kala Pandemi
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
