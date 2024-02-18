@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Kabar Gembira di Bulan Mei
 categories: [Study at KAU]
 tags:
