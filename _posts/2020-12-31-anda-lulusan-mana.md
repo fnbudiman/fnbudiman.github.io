@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Anda Lulusan Mana?
 categories: [Around Campus]
 tags:
