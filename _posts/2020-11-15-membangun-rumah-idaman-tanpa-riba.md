@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Membangun Rumah Idaman tanpa Riba
 categories: Social
 tags:
