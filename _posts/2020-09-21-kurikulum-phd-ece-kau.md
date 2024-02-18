@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_blog
 title: Kurikulum PhD Teknik Elektro & Komputer KAU
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
