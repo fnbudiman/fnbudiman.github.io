@@ -1,7 +1,7 @@
 ---
 layout: post_blog
 title: Officially on GitHub
-categories: Diary
+categories: Miscellaneous
 tags: [blogging,jekyll,github]
 ---
 Honestly, I'm neither a computer scientist nor a programmer. I'm a power engineer. But, as you might notice, programming (I mean 'coding') has no boundaries. It penetrates across various fields, including power engineering. I even see many social researchers who utilize computer programming for their works.
