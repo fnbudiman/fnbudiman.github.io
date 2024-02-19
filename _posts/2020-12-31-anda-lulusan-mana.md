@@ -1,7 +1,7 @@
 ---
 layout: post_blog
 title: Anda Lulusan Mana?
-categories: [Around Campus]
+categories: Miscellaneous
 tags:
     - akademisi
     - publikasi
