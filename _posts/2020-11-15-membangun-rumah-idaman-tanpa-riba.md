@@ -1,7 +1,7 @@
 ---
 layout: post_blog
 title: Membangun Rumah Idaman tanpa Riba
-categories: Social
+categories: Miscellaneous
 tags:
     - riba
     - rumah
