@@ -1,7 +1,7 @@
 ---
 layout: post_blog
 title: Safar ke Madinah
-categories: Diary
+categories: Miscellaneous
 tags:
     - beasiswa
     - saudi
