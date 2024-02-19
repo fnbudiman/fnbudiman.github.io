@@ -1,7 +1,7 @@
 ---
 layout: post_blog
 title: The Power of Private Universities
-categories: [Around Campus]
+categories: Miscellaneous
 tags:
     - pts
     - universitas
