@@ -1,7 +1,7 @@
 ---
 layout: post_blog
 title: Puisi Rokok Taufiq Ismail
-categories: Social
+categories: Miscellaneous
 tags:
     - puisi
     - rokok
