@@ -1,7 +1,7 @@
 ---
 layout: post_blog
 title: Mendaftar Haji di Sleman
-categories: Social
+categories: Miscellaneous
 tags: [haji,sleman]
 ---
 
