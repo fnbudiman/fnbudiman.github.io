@@ -35,11 +35,11 @@ img{
     <p>Lecturer<br>
     <a href="https://ee.uii.ac.id/" target="_blank">Department of Electrical Engineering</a><br>
     <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a><br>
-    Jl. Kaliurang Km 14.5 Sleman<br>
-    Yogyakarta 55584</p>
+    Jl. Kaliurang Km 14.5 Sleman, Yogyakarta 55584<br>
+    <a href="https://fnbudiman.github.io/blog" target="_blank">Blog</a> | <a href="https://x.com/fnbudiman" target="_blank">X</a></p>
 
     <img src="images/email.jpg" alt="" style="border-radius: 0; float: left; width: 270px; height: auto">
-    <p><br><br></p>
+    <p><br></p>
   </div>
 </div>
 
