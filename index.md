@@ -35,34 +35,29 @@ img{
     <p>Lecturer<br>
     <a href="https://ee.uii.ac.id/" target="_blank">Department of Electrical Engineering</a><br>
     <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a><br>
-    Jl. Kaliurang Km 14.5 Sleman, Yogyakarta 55584<br>
-    <a href="https://fnbudiman.github.io/blog" target="_blank">Blog</a> | <a href="https://x.com/fnbudiman" target="_blank">X</a></p>
+    Jl. Kaliurang Km 14.5 Sleman, Yogyakarta 55584<br></p>
 
     <img src="images/email.jpg" alt="" style="border-radius: 0; float: left; width: 270px; height: auto">
     <p><br></p>
   </div>
 </div>
 
-## Bio
-
-I'm a lecturer in <a href="https://ee.uii.ac.id/" target="_blank">electrical engineering</a> at <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a>, but currently in the completion of my PhD at <a href="https://www.kau.edu.sa/home_ENGLISH.aspx" target="_blank">King Abdulaziz University</a>. Yes, I officially have two "homes" now.
-
-I'm working in the area of stochastic scheduling of a grid-connected microgrid. Microgrid operation is subject to high-degree uncertainties produced by different sources, due to which deterministic optimization is insufficient. This motivates me to seek an optimal framework of stochastic optimization deployment.
+## Research Interests
+* Stochastic optimization of microgrids and power systems
+* Optimal harmonic power flow in active distribution network
+* Detection and pattern recognition of partial discharge in high-voltage apparatuses
 
 ## Education
-* Ph.D in Electrical Engineering, <a href="https://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2020-now
+* Ph.D in Electrical Engineering, <a href="https://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2020-2024
+  * Thesis: Optimal Stochastic Energy Management System for Grid-Connected Microgrid
 * M.Sc. in Electrical Engineering, <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2010-2013
   * Thesis: Particle-Initiated Partial Discharge Detection in Gas-Insulated Substation
-  * Advisors: Professors <a href="https://www.researchgate.net/profile/Yasin-Khan-5">Yasin Khan</a> and <a href="https://www.ec-lyon.fr/en/contacts/abderrahmane-beroual">Abderrahmane Beroual</a>
+  <!--* Advisors: Professors <a href="https://www.researchgate.net/profile/Yasin-Khan-5">Yasin Khan</a> and <a href="https://www.ec-lyon.fr/en/contacts/abderrahmane-beroual">Abderrahmane Beroual</a>-->
 * B.Eng. in Electrical Engineering, <a href="https://ugm.ac.id/">Universitas Gadjah Mada</a>, 2005-2009
 
 ## Scholarship Awards
-* Ph.D Scholarship from <a href="https://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2020-now
+* Ph.D Scholarship from <a href="https://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2020-2024
 * M.Sc. Scholarship from <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2010-2013
-
-## Areas of Interest
-* Stochastic optimization of microgrids and power systems (current)
-* Detection and pattern recognition of partial discharge in high-voltage apparatuses (past)
 
 ## Work Experiences
 * Lecturer at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2015-now
