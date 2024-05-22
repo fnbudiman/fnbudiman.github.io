@@ -61,7 +61,7 @@ img{
 
 ## Work Experiences
 * Lecturer at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2015-now
-* Graduate Research Assistant at <a href="ttps://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2021-2022
+* Graduate Research Assistant at <a href="ttps://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2021-2024
 * Academic Intern at <a href="https://ugm.ac.id/">Universitas Gadjah Mada</a>, 2013-2015
 * Graduate Research and Teaching Assistant at <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2012-2013
   
