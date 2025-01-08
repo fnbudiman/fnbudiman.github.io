@@ -32,7 +32,7 @@ img{
   <div class="column right">
     <p><b>Firmansyah Nur Budiman</b></p>
 
-    <p>Lecturer<br>
+    <p>Assistant Professor<br>
     <a href="https://ee.uii.ac.id/" target="_blank">Department of Electrical Engineering</a><br>
     <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a><br>
     Jl. Kaliurang Km 14.5 Sleman, Yogyakarta 55584<br></p>
