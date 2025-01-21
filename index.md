@@ -95,6 +95,11 @@ My PhD program involves many courses and I have completed the following:
 
 ## Selected Publications
 
+* **Optimal Power Flow using An Optimally Tuned Pattern Search Algorithm**  
+    <u>F. N. Budiman</u>, T. Hidayat, and R. Uswarman  
+    *Jurnal ELTIKOM: Jurnal Teknik Elektro, Teknologi Informasi dan Komputer*, Vol. 8, No. 2, pp. 163-178, 2024  
+    DOI: <a href="https://doi.org/10.31961/eltikom.v8i2.1290" target="_blank">10.31961/eltikom.v8i2.1290</a>
+
 * **Optimal scheduling of a microgrid with power quality constraints based on demand side management under grid-connected and islanding operations**  
     <u>F. N. Budiman</u>, M. A. M. Ramli, H. R. E. H. Bouchekaraca, and A. H. Milyani  
     *International Journal of Electrical Power and Energy Systems*, Vol. 155, p. 109650, 2024  
@@ -114,10 +119,5 @@ My PhD program involves many courses and I have completed the following:
     <u>F. N. Budiman</u> and E. S. Wahyuni  
     In *Proc. 3rd International Conference on Information Technology, Computer, and Electrical Engineering*, pp. 191-196, 2016  
     DOI: <a href="https://doi.org/10.1109/ICITACEE.2016.7892437" target="_blank">10.1109/ICITACEE.2016.7892437</a>
-
-* **Utilization of artificial neural network for the estimation of size and position of metallic particle adhering to spacer in GIS**  
-    <u>F. N. Budiman</u>, Y. Khan, N. H. Malik, A. A. Al-Arainy, and A. Beroual  
-    *IEEE Transactions on Dielectrics and Electrical Insulation*, Vol. 20, No. 6, 2013  
-    DOI: <a href="https://doi.org/10.1109/TDEI.2013.6678863" target="_blank">10.1109/TDEI.2013.66788637</a>
 
 The complete list can be seen <a href="{{ site.baseurl }}/publications">here</a>.
