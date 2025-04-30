@@ -3,6 +3,7 @@ layout: post_blog
 title: Lika-Liku Mencari Beasiswa S3
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
+published: false
 ---
 
 Sebenarnya, syarat untuk bisa menjadi dosen di Indonesia tidak begitu sulit dari sisi level pendidikan. Pemegang ijazah S2 sudah *eligible* untuk melamar posisi dosen di banyak universitas. Bandingkan dengan kondisi di beberapa negara lain, yang mana untuk menjadi dosen harus sudah memiliki gelar S3. Beberapa universitas bahkan mensyaratkan pengalaman *postdoctoral*. Sebuah jalan yang panjang. 
