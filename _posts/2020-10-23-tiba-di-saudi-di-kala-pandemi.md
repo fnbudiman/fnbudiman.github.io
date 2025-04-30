@@ -3,6 +3,7 @@ layout: post_blog
 title: Tiba di Saudi di Kala Pandemi
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
+published: false
 ---
 
 Tulisan ini merupakan kelanjutan dari tulisan sebelumnya mengenai persiapan keberangkatan ke Saudi di Indonesia (disini). Jadi setelah mendapatkan surat keterangan negatif Covid dari Lab Indofarma, hasil print-nya jangan lupa dibawa ke bandara. Nanti di bandara Soetta, surat ini ditunjukkan pada saat mau check-in. Setelah melalui proses pemeriksaan surat ini, proses selebihnya sama dengan penerbangan biasa. Ingat, tetap pakai masker & jaga jarak dengan orang lain dimanapun anda berada di area bandara Soetta, termasuk di dalam pesawat. Saya pribadi buka masker hanya saat makan di pesawat, itupun terpaksa. Mau bagaimana lagi, lapar, harus makan & ndak bisa makan kalau masker tidak dibuka 😀.
