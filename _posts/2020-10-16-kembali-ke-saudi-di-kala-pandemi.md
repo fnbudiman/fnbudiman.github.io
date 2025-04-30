@@ -3,6 +3,7 @@ layout: post_blog
 title: Kembali ke Saudi di Kala Pandemi
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
+published: false
 ---
 
 Salah satu hikmah adanya pandemi COVID-19 adalah membuat sesuatu yang sederhana menjadi rumit 😐, *qaddarullah wa masya-a fa'ala*. Termasuk urusan kembali ke Saudi setelah liburan musim panas di Indonesia. Sebenarnya liburan sudah usai dan perkuliahan Fall 2020 juga sudah berjalan 7 minggu secara online. Keputusan terbaru Kementerian Pendidikan (MOE) Saudi juga menetapkan kuliah online akan tetap dilaksanakan hingga akhir Fall 2020. Tapi karena Pak Dosen mengindikasikan mau ujian offline (sebelum pengumuman MOE keluar), sebagai mahasiswa yang baik & profesional tentu saya manut saja kembali ke Saudi 😀. Later on, setelah pengumuman MOE tersebut keluar, ujian-nya diputuskan gak jadi online. Ya sudahlah, mungkin memang sudah saatnya kembali ke Saudi. Hikmahnya, bisa segera ngurus calling visa anak istri.
