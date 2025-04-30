@@ -7,6 +7,7 @@ tags:
     - saudi
     - doktoral
     - phd
+published: false
 ---
 
 Genap 1 tahun (= 2 semester) sudah saya resmi menyandang status sebagai mahasiswa PhD. Dari 10 mata kuliah yang wajib saya ambil, setengah jalan sudah terlewati dengan baik. Alhamdulillah dari 5 mata kuliah, 3 diantaranya dapat sangat bagus dan 2 mata kuliah lain juga lumayan bagus. Lumayan lah, sedikit hiburan di tahun 2020 yang sangat berat kemarin. Apalagi di KAU kue yang bernama "PhD in Electrical and Computer Engineering" itu komposisi utamanya adalah *coursework*, sampai-sampai saya pernah berkelakar kalau ini *PhD by coursework*, hehe. 
