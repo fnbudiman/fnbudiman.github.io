@@ -5,6 +5,7 @@ categories: Miscellaneous
 tags:
     - pts
     - universitas
+published: false
 ---
 
 Di Indonesia, kalau mau jujur dikotomi antara PTN (Perguruan Tinggi Negeri) dan PTS (Perguruan Tinggi Swasta) masih sangat kentara. Coba kalau ditanyakan ke adik-adik kelas XII SMA yang punya cita-cita lanjut kuliah, perguruan tinggi mana yang jadi impian mereka? Saya masih yakin mayoritas masih akan menjawab PTN.
