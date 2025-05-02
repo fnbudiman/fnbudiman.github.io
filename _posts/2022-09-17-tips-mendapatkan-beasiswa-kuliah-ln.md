@@ -4,6 +4,7 @@ title: Tips Mendapatkan Beasiswa Kuliah di Luar Negeri
 categories: Miscellaneous
 tags:
     - beasiswa
+published: false
 ---
 
 Kuliah di luar negeri adalah sebuah _privilege_ yang tidak semua orang bisa mendapatkannya. Meskipun kuliah di luar negeri itu berat dan banyak tantangannya, banyak orang yang menginginkannya. Sayangnya, tak semua mampu mendapatkannya. Strategi yang kurang tepat menjadi sebab utamanya. Oleh karena itu, di postingan ini ijinkan saya berbagi tips untuk mendapatkan beasiswa kuliah di negeri yang jauh di sana.
