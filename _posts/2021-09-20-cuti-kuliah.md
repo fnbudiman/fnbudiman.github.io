@@ -3,6 +3,7 @@ layout: post_blog
 title: Cuti Kuliah
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
+published: false
 ---
 
 Studi di luar negeri memang kompleks urusannya, apalagi di masa pandemi seperti sekarang ini. Kompleksitas yang ada sampai membuat saya harus cuti kuliah semester ini. Akhirnya cuti kali ini resmi menjadi cuti pertama sepanjang sejarah saya menjadi mahasiswa. Bagaimana ceritanya?
