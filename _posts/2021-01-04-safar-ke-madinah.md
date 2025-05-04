@@ -6,6 +6,7 @@ tags:
     - beasiswa
     - saudi
     - madinah
+published: false
 ---
 
 Salah satu nikmat tinggal di Saudi adalah bisa bepergian ke dua tanah suci kapanpun kita mau. Dan bagi mahasiswa, waktu liburan antar semester seperti saat ini merupakan waktu yang cocok untuk ziarah ke Mekkah dan Madinah. Alhamdulillah, tanggal 2 Januari hari Sabtu kemarin kami (saya dan 3 orang teman) bisa berkunjung ke kota Nabi. Ini merupakan perjalanan pertama saya ke Madinah semenjak mulai tinggal di Jeddah untuk studi S3 ini. Tulisan ini merangkum perjalanan kami.
