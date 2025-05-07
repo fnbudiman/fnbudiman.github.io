@@ -6,6 +6,7 @@ tags:
     - riba
     - rumah
     - kpr
+published: false
 ---
 
 Beberapa hari yang lalu, saya mendapatkan info di grup WhatsApp dari seorang teman mengenai tawaran pembiayaan dari salah satu bank "syariah". Setelah saya lihat detailnya, ternyata skemanya jatuh ke riba juga. Jadi terpikir untuk membuat tulisan mengenai riba di blog ini. Bagi seorang yang sudah belajar mengenai riba (meskipun masih di level introduction), sebenarnya tidak terlalu sulit mengidentifikasi apakah sebuah transaksi masuk dalam kategori riba atau bukan. Apalagi kalau transaksi pembiayaan dari perbankan, yang memang sudah sangat "tipikal". 
