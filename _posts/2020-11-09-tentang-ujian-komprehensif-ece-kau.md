@@ -7,6 +7,7 @@ tags:
     - saudi
     - doktoral
     - phd
+published: false
 ---
 
 Ketika membaca panduan ujian komprehensif (*comprehensive exam*) program PhD in Electrical and Computer Engineering (ECE) KAU, ingatan saya tiba-tiba melayang ke awal tahun 2018 ketika saya mendapatkan LoA untuk kuliah PhD di University of Malaya, Malaysia (baca: <a href="https://fnbudiman.github.io/blog/lika-liku-mencari-beasiswa-s3/" target="_blank">Lika-Liku Mencari Beasiswa S3</a>). 
