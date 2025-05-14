@@ -6,6 +6,7 @@ tags:
     - beasiswa
     - doktoral
     - phd
+published: false
 ---
 
 Di penghujung bulan Mei 2022 ini, saya ingin berbagi sedikit kebahagiaan. Kebahagiaan dengan datangnya 3 kabar gembira yang berkaitan dengan studi saya. Studi S3 memang *stressful*, makanya kabar gembira sekecil apapun bisa jadi sumber kebahagiaan. *Every good news is a great good news*. Alhamdulillah...
