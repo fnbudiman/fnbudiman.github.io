@@ -3,6 +3,7 @@ layout: post_blog
 title: Merasakan IP Maksimal
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
+published: false
 ---
 
 Bagi seorang mahasiswa S3, dalam hal akademik, pertanyaan-pertanyaan seperti, "Riset sudah sampai mana?", "Sudah publish paper belum?", atau "Sudah publish di mana?" tentu saja jauh lebih relevan dibanding pertanyaan seperti "IP (indeks prestasi) semester ini berapa?". S3 atau PhD adalah *research-based degree* atau tahapan sekolah yang tujuan utamanya memang melatih kemampuan meneliti seseorang. Namun di tempat kami, pertanyaan tentang IP masih sangat relevan karena menentukan keberlangsungan beasiswa.
