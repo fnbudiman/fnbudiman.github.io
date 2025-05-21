@@ -3,6 +3,7 @@ layout: post_blog
 title: Mendaftar Haji di Sleman
 categories: Miscellaneous
 tags: [haji,sleman]
+published: false
 ---
 
 Posisi sebagai mahasiswa di Arab Saudi sebetulnya sangat memungkinkan saya untuk melaksanakan ibadah haji dengan segera tanpa antrian yang sangat panjang. Namun, seperti yang bisa disimak di berbagai media, pelaksanaan ibadah haji sangat terdampak hebat oleh pandemi Covid-19. Bagi warga negara Saudi (*citizen*) dan *muqimin* (ekspatriat) yang tinggal di Saudi, dilakukan pembatasan jumlah yang diijinkan berhaji. Adapun untuk warga luar Saudi, dua tahun berturut-turut (2020 dan 2021) sudah pelaksanaan haji resmi ditiadakan. 
