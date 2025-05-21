@@ -5,6 +5,7 @@ categories: Miscellaneous
 tags:
     - pts
     - universitas
+published: false
 ---
 
 Masih nyambung dengan note sebelumnya. Nama-nama yang tertampil di gambar ini juga semuanya perguruan tinggi swasta dan mereka berani menjaga rasio mahasiswa-dosen pada angka yang sangat rendah. Yup, _size really matters_. 
