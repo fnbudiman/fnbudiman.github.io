@@ -4,6 +4,7 @@ title: FAQ Seputar Studi Pascasarjana di KAU
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
 last_modified_at: 2022-10-07
+published: false
 ---
 
 Beberapa pertanyaan di bawah ini sering sekali ditanyakan oleh para peminat beasiswa KAU, terutama lewat Fanpage <a href="https://www.facebook.com/KAUnesia.org" target="_blank">KAUnesia.org</a>. Di tulisan ini, saya berusaha jawab sesuai dengan yang saya ketahui dan berdasarkan peraturan yang berlaku di KAU pada saat tulisan ini dibuat. Sekali lagi, beberapa pertanyaan saya jawab dengan sangat subyektif sesuai pengetahuan saya. Oh ya, sebelum membaca tulisan ini ada baiknya membaca tulisan saya sebelumnya mengenai prosedur pendaftaran beasiswa pascasarjana ke KAU.
