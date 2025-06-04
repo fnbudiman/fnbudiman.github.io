@@ -5,6 +5,7 @@ categories: Miscellaneous
 tags:
     - puisi
     - rokok
+published: false
 ---
 
 Saya bukan orang yang pandai membuat puisi. Saya juga bukan penikmat "*hard core*" puisi, jadi ya tidak bisa menilai mana puisi yang bagus dan mana yang tidak. Tapi saya suka kalau ada puisi yang benar-benar mewakili pikiran saya tentang fenomena sosial di sekitar, apalagi kalau disusun dengan bahasa yang "wow". Nah, satu diantara puisi yang masuk kategori ini adalah puisi karya Taufiq Ismail tentang rokok. Puisi ini judulnya "Tuhan Sembilan Senti" dan bisa dengan mudah dicari teks-nya di internet.
