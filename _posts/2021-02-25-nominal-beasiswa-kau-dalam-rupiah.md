@@ -3,6 +3,7 @@ layout: post_blog
 title: Nominal Beasiswa KAU dalam Rupiah
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
+published: false
 ---
 
 Saya pernah memposting tulisan mengenai beasiswa pascasarjana di King Abdulaziz University (KAU) di <a href="https://fnbudiman.github.io/blog/beasiswa-pasca-kau/" target="_blank">sini</a>. Di situ saya mencantumkan komponen apa saja yang masuk beasiswa. Karena KAU berada di Arab Saudi, tentu semua komponen beasiswa diberikan dalam mata uang Saudi Riyal (SAR). Nah, apabila seluruh komponen beasiswa tersebut ditotal dan kemudian dikonversi ke rupiah jadinya berapa? Simak kalkulasinya di tulisan ini.
