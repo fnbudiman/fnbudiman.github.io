@@ -3,6 +3,7 @@ layout: post_blog
 title: Kurikulum PhD Teknik Elektro & Komputer KAU
 categories: [Study at KAU]
 tags: [beasiswa,saudi,doktoral,phd]
+published: false
 ---
 
 Sama seperti program PhD lain di KAU, PhD in Electrical and Computer Engineering (disingkat PhD ECE) tersusun dari serangkaian mata kuliah, ujian komprehensif, ujian proposal, dan thesis. Mata kuliah yang harus diambil pun banyak. Struktur yang seperti ini bagus untuk memperdalam kembali konsep dan knowledge ECE yang mungkin sudah banyak yang terlupa, tetapi kurang cocok bagi yang preferensinya *PhD by research only*. Referensi tulisan ini adalah halaman khusus mengenai PhD di website KAU ECE Department (di <a href="https://ee.kau.edu.sa/Pages-PhD.aspx" target="_blank">sini</a>), hanya saja cuma tersedia dalam bahasa Arab :).
