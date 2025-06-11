@@ -6,6 +6,7 @@ tags:
     - akademisi
     - publikasi
     - almamater
+published: false
 ---
 
 Dalam dunia akademik, satu indikator kuat performa seorang akademisi adalah publikasi ilmiah. Publikasi ilmiah menunjukkan tingkat kontribusi seorang akademisi terhadap ilmu pengetahuan. Di Indonesia sendiri, walaupun dengan segala keterbatasannya, ternyata banyak juga akademisi yang mampu tetap produktif menelurkan publikasi ilmiahnya. Pertanyaan yang sering terlintas di pikiran saya: dari mana mereka, para akademisi yang produktif itu, memperoleh pendidikan PhD-nya? Apakah ada korelasi yang kuat antara almamater PhD dan produktifitas dalam hal publikasi setelah kembali ke Indonesia? Pertanyaan-pertanyaan iseng itulah yang membuat saya kepo satu per satu nama-nama top Indonesia di Scopus.
