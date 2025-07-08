@@ -24,6 +24,7 @@ email: firmansyah.nur@uii.ac.id
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 title_image: "/images/title-image.png"
+threads_username: firmansyahnurb
 twitter_username: fnbudiman
 instagram_username: firmansyahnurb
 facebook_username: fnbudiman
