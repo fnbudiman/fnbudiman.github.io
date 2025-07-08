@@ -102,6 +102,7 @@ Electrical Engineering Undergraduate Program:
 * Electric Circuit
 * Introduction to Electrical Engineering
 * Power Electronics
+
 Electrical Engineering Master Program:
 * Renewable Energy
 * Energy Economics and Legislation
