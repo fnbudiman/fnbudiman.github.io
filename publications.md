@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2025
+* **Performance enhancement of grid-forming inverter-controlled PV systems: A comparative study with and without battery energy storage under intermittent and unbalanced load conditions**  
+    M. A. Syahbani, M. A. M. Ramli, P. Megantoro, A. Ardiansyah, I. D. Cahyani, N. F. P. Dinata, R. Firmansyah, M. Zohri, and <u>F. N. Budiman</u>  
+    *Results in Engineering*, Vol. 27, p. 105980, 2025  
+    DOI: <a href="https://doi.org/10.1016/j.rineng.2025.105980" target="_blank">10.1016/j.rineng.2025.105980</a>
+
 ### 2024
 * **Optimal Power Flow using An Optimally Tuned Pattern Search Algorithm**  
     <u>F. N. Budiman</u>, T. Hidayat, and R. Uswarman  
