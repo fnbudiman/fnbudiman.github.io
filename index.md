@@ -50,8 +50,10 @@ img{
 ## Education
 * Ph.D in Electrical Engineering, <a href="https://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2020-2024
   * Thesis: Optimal Stochastic Energy Management System for Grid-Connected Microgrid
+  * Funding: Full scholarship from KAU
 * M.Sc. in Electrical Engineering, <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2010-2013
   * Thesis: Particle-Initiated Partial Discharge Detection in Gas-Insulated Substation
+  * Funding: Full scholarship from KSU
   <!--* Advisors: Professors <a href="https://www.researchgate.net/profile/Yasin-Khan-5">Yasin Khan</a> and <a href="https://www.ec-lyon.fr/en/contacts/abderrahmane-beroual">Abderrahmane Beroual</a>-->
 * B.Eng. in Electrical Engineering, <a href="https://ugm.ac.id/">Universitas Gadjah Mada</a>, 2005-2009
 
@@ -59,10 +61,6 @@ img{
 * Professional Engineer Degree (Insinyur) from Universitas Gadjah Mada, December 2024
 * Junior Professional Engineer (Insinyur Profesional Pratama) from The Institution of Engineers
 Indonesia (PII), May 2025 (valid for 5 years)
-
-## Scholarship Awards
-* Ph.D Scholarship from <a href="https://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2020-2024
-* M.Sc. Scholarship from <a href="https://ksu.edu.sa/en/">King Saud University</a>, 2010-2013
 
 ## Work Experiences
 * Assistant Professor at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2024-now
