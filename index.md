@@ -32,7 +32,7 @@ img{
   <div class="column right">
     <p><b>Firmansyah Nur Budiman</b></p>
 
-    <p>Assistant Professor<br>
+    <p>Assistant Professor, Head of Power Systems Lab<br>
     <a href="https://ee.uii.ac.id/" target="_blank">Department of Electrical Engineering</a><br>
     <a href="https://www.uii.ac.id/" target="_blank">Universitas Islam Indonesia</a><br>
     Jl. Kaliurang Km 14.5 Sleman, Yogyakarta 55584<br></p>
