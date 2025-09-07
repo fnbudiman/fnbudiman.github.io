@@ -90,7 +90,7 @@ My PhD program involves many courses and I have completed the following:
 * EE733 Advanced Measurements and Instrumentations
 
 ## Courses Taught at UII
-Electrical Engineering Undergraduate Program:
+Electrical Engineering Bachelor Program:
 * Mathematics II
 * Mathematics III
 * Renewable Energy
