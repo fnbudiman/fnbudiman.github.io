@@ -64,7 +64,9 @@ img{
 Indonesia (PII), May 2025 (valid for 5 years)
 
 ## Work Experiences
+* Head of Bachelor Program in Electrical Engineering at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2025-now
 * Assistant Professor at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2024-now
+* Head of Power Systems Laboratory at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2024-2025
 * Lecturer at <a href="https://www.uii.ac.id/">Universitas Islam Indonesia</a>, 2015-2024
 * Graduate Research Assistant at <a href="ttps://www.kau.edu.sa/home_ENGLISH.aspx">King Abdulaziz University</a>, 2021-2024
 * Academic Intern at <a href="https://ugm.ac.id/">Universitas Gadjah Mada</a>, 2013-2015
